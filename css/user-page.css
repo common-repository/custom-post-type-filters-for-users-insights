@@ -1,0 +1,8 @@
+.usin-icon-cptui, .usin .select2-results li span.usin-icon-cptui{
+	font-family: dashicons !important;
+	color: #d54e21;
+}
+
+.usin-icon-cptui:before {
+	content: "\f109";
+}
